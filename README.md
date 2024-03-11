@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Manaa</h1>
 <h3 align="center">I'm a passionate software engineer with a deep enthusiasm for creating innovative solutions and pushing the boundaries of technology. My expertise lies in a variety of programming languages, including but not limited to Java, Python, and JavaScript. I thrive on the challenges that come with designing and implementing robust, scalable, and efficient software solutions.</h3>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omaremanaa&" alt="omaremanaa" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omaremanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omaremanaa" height="30" width="40" /></a>
@@ -11,4 +11,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omaremanaa" alt="omaremanaa" /></a> </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omaremanaa&" alt="omaremanaa" /></p>
+
