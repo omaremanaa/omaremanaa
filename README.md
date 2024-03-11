@@ -1,28 +1,3 @@
-### Hi there 👋
-
-<!--
-**Hazeman99/Hazeman99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-My name is **Hazem Hadi Allbabidi**. I am a Software Engineer with experience in Laravel, Vue JS, Nuxt JS, Linux, and more.
-
-You can check out my portfolio at [https://hazemhadi.com/](https://hazemhadi.com/). 
-
-You can also check out my blog at [https://hazemhadi.com/articles/](https://hazemhadi.com/articles/).
-
-I also have a knowledge base where I store all of the various things I have learned from different courses, books, and other forms of content, check it out here: [https://brain.hazemhadi.com/](https://brain.hazemhadi.com/).
-
 <h1 align="center">Hi 👋, I'm Omar Manaa</h1>
 <h3 align="center">I'm a passionate software engineer with a deep enthusiasm for creating innovative solutions and pushing the boundaries of technology. My expertise lies in a variety of programming languages, including but not limited to Java, Python, and JavaScript. I thrive on the challenges that come with designing and implementing robust, scalable, and efficient software solutions.</h3>
 
